@@ -125,7 +125,10 @@ Launch with Windows, sound alerts on/off, Russian or English interface.
 - No additional dependencies — everything is included
 
 ---
-
+- 🌐 [shashevpro.ru](https://www.shashevpro.ru)
+- 🛒 [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
+- ✉️ programmer@shashevpro.ru
+- 💬 [vk.com/shashevpro](https://vk.com/shashevpro)
 <div align="center">
 
 **[⬇️ Download latest release](https://github.com/andryhasayan-source/beacon/releases)**
